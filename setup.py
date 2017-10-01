@@ -20,7 +20,7 @@ setup(
         'Programming Language :: Python :: 3.6',
     ],
     keywords=['deep learning', 'education', 'scientific computing', 'artificial intelligence'],
-    python_requires='>=3.6',
+    python_requires='==3.6',
     setup_requires=['pytest-runner'],
-    tests_require=['pytest'],
+    tests_require=['pytest>=3.2.2'],
 )
