@@ -11,7 +11,7 @@ setup(
     license='MIT',
     packages=['pyjc'],
     classifiers=[
-        'Development Status :: 1 - Planning'
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic:: Scientific / Engineering:: Artificial Intelligence',
         'Natural Language :: English',
