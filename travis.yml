@@ -5,4 +5,4 @@ python:
 install:
   - python setup.py --quiet install
 script:
-  - python setup.py test
+  - pytest
