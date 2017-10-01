@@ -13,7 +13,7 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Topic :: Scientific / Engineering :: Artificial Intelligence',
+        'Topic :: Scientific/Engineering :: Artificial Intelligence',
         'Natural Language :: English',
         'Operating System:: OS Independent'
         'License :: OSI Approved :: MIT License',
