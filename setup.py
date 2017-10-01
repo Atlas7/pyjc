@@ -5,11 +5,11 @@ setup(
     version='0.1.0',
     description='An educational deep learning framework',
     url='http://github.com/Atlas7/pyjc',
+    download_url='https://github.com/Atlas7/pyjc/archive/v0.1.0.tar.gz',
     author='Johnny Chan',
     author_email='johnnychan0302@gmail.com',
     license='MIT',
     packages=['pyjc'],
-    zip_safe=False,
     classifiers=[
         'Development Status :: 1 - Planning'
         'Intended Audience :: Developers',
