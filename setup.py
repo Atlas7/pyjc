@@ -15,7 +15,7 @@ setup(
         'Intended Audience :: Developers',
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
         'Natural Language :: English',
-        'Operating System:: OS Independent'
+        'Operating System :: OS Independent',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.6',
     ],
