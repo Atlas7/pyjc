@@ -1,14 +1,21 @@
 # MacOS
-.DS_Store
+.DS_Store/
 
 # PyCharm IDE
-.idea
+/.idea/
 
 # Compiled python modules.
-*.pyc
+*.pyc/
 
-# Setuptools distribution folder.
+# Setuptools distribution folder (result of pypi upload procedure)
 /dist/
 
+# output of python setup.py install
+/build/
+
 # Python egg metadata, regenerated from source files by setuptools.
-/*.egg-info
+/*.egg-info/
+
+# pytest
+/.cache/
+/.eggs/
