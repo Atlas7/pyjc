@@ -14,7 +14,7 @@ setup(
         'Development Status :: 1 - Planning'
         'Intended Audience :: Developers',
         'Topic:: Scientific / Engineering:: Artificial Intelligence',
-        'Natural Language :: English''
+        'Natural Language :: English',
         'Operating System:: OS Independent'
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.6',
