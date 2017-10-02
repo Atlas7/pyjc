@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='pyjc',
-    version='0.1.1',
+    version='0.1.0',
     packages=['pyjc'],
     description='An educational deep learning framework',
     url='http://github.com/Atlas7/pyjc',
-    download_url='https://github.com/Atlas7/pyjc/archive/v0.1.1.tar.gz',
+    download_url='https://github.com/Atlas7/pyjc/archive/v0.1.0.tar.gz',
     author='Johnny Chan',
     author_email='johnnychan0302@gmail.com',
     license='MIT',
@@ -20,7 +20,7 @@ setup(
         'Programming Language :: Python :: 3.6',
     ],
     keywords=['deep learning', 'education', 'scientific computing', 'artificial intelligence'],
-    python_requires='==3.6',
+    python_requires='==3.6.*',
     setup_requires=['pytest-runner'],
     tests_require=['pytest>=3.2.2'],
 )
