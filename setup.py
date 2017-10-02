@@ -21,6 +21,5 @@ setup(
     ],
     keywords=['deep learning', 'education', 'scientific computing', 'artificial intelligence'],
     python_requires='==3.6.*',
-    setup_requires=['pytest-runner'],
     tests_require=['pytest'],
 )
